@@ -5,3 +5,10 @@
 .custom{
     width: 128px;
 }
+
+.header-custom{
+    background: linear-gradient(rgba(141, 135, 135, 0.779),rgba(105, 101, 101, 0.559)),url(/img/bg.jpg); 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

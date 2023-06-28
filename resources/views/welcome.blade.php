@@ -34,7 +34,7 @@
   </div>
 </nav>
 
-<section class="container-fluid bg-danger vh-100 d-flex align-items-center flex-column justify-content-center">
+<section class="container-fluid bg-danger vh-100 d-flex align-items-center flex-column justify-content-center header-custom">
     <div class="row">
         <div class="col-12">
             <h1 class="display-1 text-center">Benvenuti nel nostro sito</h1>
