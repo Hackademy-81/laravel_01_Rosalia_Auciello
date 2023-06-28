@@ -12,3 +12,13 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.card{
+    box-shadow: 5px 7px 5px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.card:hover{
+    box-shadow: 0px 0px 0px;
+}

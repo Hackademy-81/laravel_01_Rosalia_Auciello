@@ -34,7 +34,7 @@
         </div>
       </nav>
 
- <section class="container">
+ <section class="container py-5">
     <div class="row justify-content-around flex-wrap">
         <div class="col-12">
             <h1 class="text-center display-1">I Nostri Articoli</h1>

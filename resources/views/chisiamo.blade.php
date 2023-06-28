@@ -34,7 +34,7 @@
         </div>
       </nav>
 
-<section class="container">
+<section class="container d-flex justify-content-center align-items-center vh-100">
     <div class="row justify-content-around">
         <div class="col-12">
             <h1 class="display-1 text-center">I Nostri Fondatori</h1>
